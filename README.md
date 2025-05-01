@@ -43,6 +43,6 @@ Customers pay a **driver fee**, **vehicle fee** and cover **fuel costs** for eac
 
 ## 📁 Available Scripts
 
-- git clone https://github.com/your-username/capecruze.git
+- git clone https://github.com/ShaanWocker/CapeCruze.git 
 - cd capecruze
 - run live server
