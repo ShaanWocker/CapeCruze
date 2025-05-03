@@ -407,6 +407,83 @@ hr{
 }
 
 
+/* Booking Form Section */
+#booking-form {
+    background: #f8f8f8;
+    padding: 80px 0;
+    text-align: center;
+}
+
+.form-container {
+    width: 80%;
+    max-width: 600px;
+    margin: auto;
+}
+
+.form-container form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.form-container input,
+.form-container textarea {
+    padding: 15px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 100%;
+    resize: none;
+}
+
+.form-btn {
+    padding: 12px;
+    background: #009688;
+    color: white;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+    transition: 0.3s ease;
+    border-radius: 5px;
+}
+
+.form-btn:hover {
+    background: #00766c;
+}
+
+/* Calendly Section */
+#calendar {
+    padding: 80px 0;
+    background: #fff;
+    text-align: center;
+}
+
+.calendly-container {
+    width: 90%;
+    max-width: 800px;
+    height: 700px;
+    margin: 40px auto;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.calendly-container iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+/* Responsive */
+@media screen and (max-width: 770px) {
+    .form-container {
+        width: 90%;
+    }
+
+    .calendly-container {
+        height: 600px;
+    }
+}
 
 
 
