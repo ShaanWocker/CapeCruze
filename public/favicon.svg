@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Minibus body -->
+  <rect x="4" y="18" width="56" height="28" rx="6" ry="6" fill="#009688"/>
+  <!-- Front windshield -->
+  <rect x="44" y="22" width="12" height="12" rx="2" ry="2" fill="#b2dfdb"/>
+  <!-- Side windows -->
+  <rect x="10" y="22" width="10" height="10" rx="2" ry="2" fill="#b2dfdb"/>
+  <rect x="24" y="22" width="10" height="10" rx="2" ry="2" fill="#b2dfdb"/>
+  <!-- Door -->
+  <rect x="8" y="32" width="8" height="12" rx="1" ry="1" fill="#00796b"/>
+  <!-- Wheels -->
+  <circle cx="16" cy="48" r="7" fill="#333"/>
+  <circle cx="16" cy="48" r="3" fill="#888"/>
+  <circle cx="48" cy="48" r="7" fill="#333"/>
+  <circle cx="48" cy="48" r="3" fill="#888"/>
+  <!-- Headlight -->
+  <rect x="58" y="28" width="3" height="6" rx="1" ry="1" fill="#fff9c4"/>
+  <!-- Roof rack line -->
+  <rect x="8" y="16" width="48" height="3" rx="1" ry="1" fill="#00695c"/>
+</svg>
