@@ -74,20 +74,33 @@ export default function Footer() {
         >
           <i className="fa fa-facebook" aria-hidden="true" />
         </span>
-        <span
-          aria-label="Cape Cruz on Instagram (coming soon)"
-          className="inline-block h-10 w-10 leading-10 border border-[#009688] mx-1 text-[#009688] text-xl hover:bg-[#009688] hover:text-white hover:-translate-y-2 transition-all duration-500 mt-10 cursor-default opacity-60"
-          title="Instagram – coming soon"
+        <a
+          href="https://www.instagram.com/wockershaan?igsh=MTdhaWV5eGxzNmUzeg=="
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Cape Cruz on Instagram"
+          className="inline-block h-10 w-10 leading-10 border border-[#009688] mx-1 text-[#009688] text-xl hover:bg-[#009688] hover:text-white hover:-translate-y-2 transition-all duration-500 mt-10"
         >
           <i className="fa fa-instagram" aria-hidden="true" />
-        </span>
-        <span
-          aria-label="Cape Cruz on Twitter (coming soon)"
-          className="inline-block h-10 w-10 leading-10 border border-[#009688] mx-1 text-[#009688] text-xl hover:bg-[#009688] hover:text-white hover:-translate-y-2 transition-all duration-500 mt-10 cursor-default opacity-60"
-          title="Twitter – coming soon"
+        </a>
+        <a
+          href="https://x.com/fixmeoneofthose"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Cape Cruz on Twitter"
+          className="inline-block h-10 w-10 leading-10 border border-[#009688] mx-1 text-[#009688] text-xl hover:bg-[#009688] hover:text-white hover:-translate-y-2 transition-all duration-500 mt-10"
         >
           <i className="fa fa-twitter" aria-hidden="true" />
-        </span>
+        </a>
+        <a
+          href="https://www.linkedin.com/in/shaanwocker/"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Cape Cruz on LinkedIn"
+          className="inline-block h-10 w-10 leading-10 border border-[#009688] mx-1 text-[#009688] text-xl hover:bg-[#009688] hover:text-white hover:-translate-y-2 transition-all duration-500 mt-10"
+        >
+          <i className="fa fa-linkedin" aria-hidden="true" />
+        </a>
         <a
           href="https://www.youtube.com"
           target="_blank"

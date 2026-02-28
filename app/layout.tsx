@@ -13,6 +13,9 @@ export const metadata: Metadata = {
       "Professional tours and transport services in Cape Town, South Africa.",
     type: "website",
   },
+  icons: {
+    icon: "/favicon.svg",
+  },
 };
 
 export default function RootLayout({
